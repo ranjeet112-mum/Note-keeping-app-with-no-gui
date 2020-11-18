@@ -1,0 +1,4 @@
+// const test = require("./utils.js"); TO MAKE CONNECTION
+//  fs.writeFileSync("notes.txt", "This is created with node!"); CREATE A NEW FILE
+//  let x = `\n the name is ${test.name} , and on multiplying 2, 5 we get ${test.mul(2,5)}`; UTILISING THE FUNTIONS
+// fs.appendFileSync("notes.txt",x);APPENDING
