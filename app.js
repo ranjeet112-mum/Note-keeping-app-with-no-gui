@@ -1,6 +1,5 @@
 // --------------------------Requires --------------------------------
-const validator = require("validator");
-const fs = require("fs");
+
 const notes = require("./notes.js");
 const yargs = require("yargs");
 
@@ -55,3 +54,4 @@ yargs.command({
 });
 yargs.parse();
 
+console.log(process.argv)
